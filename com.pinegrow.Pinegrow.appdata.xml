@@ -51,6 +51,23 @@
   <releases>
     <release version="7.4" date="2023-04-26"></release>
   </releases>
+  <keywords>
+    <keyword>Web</keyword>
+    <keyword>Web Editor</keyword>
+    <keyword>Visual Editor</keyword>
+    <keyword>Website</keyword>
+    <keyword>Development</keyword>
+    <keyword>HTML</keyword>
+    <keyword>CSS</keyword>
+    <keyword>Javascript</keyword>
+    <keyword>JS</keyword>
+    <keyword>SASS</keyword>
+    <keyword>Bootstrap</keyword>
+    <keyword>Tailwind</keyword>
+    <keyword>GreenSock</keyword>
+    <keyword>WordPress</keyword>
+    <keyword>WooCommerce</keyword>
+  </keywords>
 	<launchable type="desktop-id">com.pinegrow.Pinegrow.desktop</launchable>
 	<project_license>LicenseRef-proprietary</project_license>
 	<developer_name>Pinegrow Pte. Ltd.</developer_name>
