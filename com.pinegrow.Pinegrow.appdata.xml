@@ -49,6 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="7.6" date="2023-06-28">
+	<description>
+        <p>Hybrid blocks – CSS Tree improvements – Reorder colors – Inner HTML field – New AI models</p>
+	</description>
+    </release>
     <release version="7.5" date="2023-05-29">
 	<description>
         <p>Native dialog element – Block condition action for WordPress – Tailwind CSS background images – Visual Studio Code integration</p>
