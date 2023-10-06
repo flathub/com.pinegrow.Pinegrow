@@ -26,7 +26,7 @@ modules:
           - x86_64
         url: https://github.com/Pinegrow/PinegrowReleases/releases/download/pg7.72/PinegrowLinux64.7.72.zip
         sha256: f52e574f3d2913363b805a71b9c5f7d8ec53c058ecb674dfd7385bac19faa2d1
-        size: 269930705
+        size: 256858198
         filename: Pinegrow.zip
       - type: file
         path: com.pinegrow.Pinegrow.appdata.xml
