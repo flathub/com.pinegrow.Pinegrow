@@ -24,9 +24,9 @@ modules:
       - type: extra-data
         only-arches:
           - x86_64
-        url: https://github.com/Pinegrow/PinegrowReleases/releases/download/pg7.72/PinegrowLinux64.7.72.zip
-        sha256: 37c434ce62ec1d0b6d22cee33bcaa3caa68e8bcddafa579df9a06b195a164331
-        size: 256858198
+        url: https://github.com/Pinegrow/PinegrowReleases/releases/download/pg7.93/PinegrowLinux64.7.93.zip
+        sha256: bbb0cb50b9d696250090e99c96b4e5a16006cde04e7b184ff58e29bda5d25236
+        size: 272794696
         filename: Pinegrow.zip
       - type: file
         path: com.pinegrow.Pinegrow.appdata.xml
