@@ -49,6 +49,11 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="7.93" date="2023-03-06">
+	<description>
+        <p>Pinegrow Web Editor 7.93 brings usability improvements to all users, and introduces a whole new way of working with WordPress.</p>
+	</description>
+    </release>
     <release version="7.72" date="2023-09-14">
 	<description>
         <p>Bootstrap and Tailwind CSS updates - Editable tag names in blocks - Improved block controls - New tutorial - And more</p>
