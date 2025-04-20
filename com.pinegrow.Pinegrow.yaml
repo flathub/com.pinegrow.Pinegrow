@@ -1,6 +1,6 @@
 app-id: com.pinegrow.Pinegrow
 runtime: org.freedesktop.Sdk
-runtime-version: '22.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 command: pinegrow
 separate-locales: false
@@ -10,6 +10,7 @@ finish-args:
   - --socket=fallback-x11
   - --device=dri
   - --filesystem=home
+  - --share=ipc
 modules:
 
   - name: pinegrow
@@ -24,9 +25,9 @@ modules:
       - type: extra-data
         only-arches:
           - x86_64
-        url: https://github.com/Pinegrow/PinegrowReleases/releases/download/pg7.93/PinegrowLinux64.7.93.zip
-        sha256: bbb0cb50b9d696250090e99c96b4e5a16006cde04e7b184ff58e29bda5d25236
-        size: 272794696
+        url: https://github.com/Pinegrow/PinegrowReleases/releases/download/pg8.4/PinegrowLinux64.8.4.zip
+        sha256: ff1bf579e7c2bf1d8e63e6844a815063df7bd30e937516769a117fe13a17758a
+        size: 272926257
         filename: Pinegrow.zip
       - type: file
         path: com.pinegrow.Pinegrow.appdata.xml
