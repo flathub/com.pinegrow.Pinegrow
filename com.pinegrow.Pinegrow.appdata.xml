@@ -49,6 +49,12 @@
     </screenshot>
   </screenshots>
   <releases>
+
+    <release version="8.5" date="2025-05-25">
+	<description>
+        <p>AI Assistant with Smart HTML Editing and custom models and Bug fixes.</p>
+	</description>
+    </release>
     <release version="8.4" date="2025-03-13">
 	<description>
         <p>This release focuses on major improvements to the Tailwind CSS integration, and enhancements to the AI assistant. A number of bugs were also fixed.</p>
