@@ -44,5 +44,5 @@ modules:
       - type: script
         dest-filename: pinegrow
         commands:
-          - exec /app/extra/PinegrowLibrary --enable-features=UseOzonePlatform --ozone-platform-hint=auto
+          - exec /app/extra/PinegrowLibrary --enable-features=UseOzonePlatform --ozone-platform-hint=auto --enable-chrome-browser-cloud-management
             "$@"
