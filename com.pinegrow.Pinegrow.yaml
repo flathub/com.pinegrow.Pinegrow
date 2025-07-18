@@ -25,9 +25,9 @@ modules:
       - type: extra-data
         only-arches:
           - x86_64
-        url: https://github.com/Pinegrow/PinegrowReleases/releases/download/pg8.4/PinegrowLinux64.8.4.zip
-        sha256: ff1bf579e7c2bf1d8e63e6844a815063df7bd30e937516769a117fe13a17758a
-        size: 272926257
+        url: https://github.com/Pinegrow/PinegrowReleases/releases/download/pg8.5/PinegrowLinux64.8.5.zip
+        sha256: 5b59f6f2eef81dc7d80b56f0ec7558a790627c888bed815892a196d2dfb0a678
+        size: 272951851
         filename: Pinegrow.zip
       - type: file
         path: com.pinegrow.Pinegrow.appdata.xml
@@ -44,5 +44,5 @@ modules:
       - type: script
         dest-filename: pinegrow
         commands:
-          - exec /app/extra/PinegrowLibrary --enable-features=UseOzonePlatform --ozone-platform-hint=auto
+          - exec /app/extra/PinegrowLibrary --enable-features=UseOzonePlatform --ozone-platform-hint=auto --enable-chrome-browser-cloud-management
             "$@"
