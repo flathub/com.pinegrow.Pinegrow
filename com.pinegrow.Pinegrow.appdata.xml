@@ -110,7 +110,7 @@
     <keyword>WooCommerce</keyword>
   </keywords>
 	<launchable type="desktop-id">com.pinegrow.Pinegrow.desktop</launchable>
-	<project_license>LicenseRef-proprietary</project_license>
+	<project_license>LicenseRef-proprietary=https://pinegrow.com/Pinegrow_EULA.pdf</project_license>
 	<developer_name>Pinegrow Pte. Ltd.</developer_name>
 	<content_rating type="oars-1.1"/>
 </component>
