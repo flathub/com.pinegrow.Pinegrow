@@ -51,6 +51,11 @@
   <releases>
 
 
+    <release version="10.1" date="2026-10-13">
+	<description>
+        <p>Create site maps and fix page titles and descriptions, search projects with thousands of files without waiting, keep your HTML formatted the way you wrote it, and learn Pinegrow on example websites.</p>
+	</description>
+    </release>
     <release version="9.3" date="2026-06-17">
 	<description>
         <p>Pinegrow 9.3 adds AI image editing, reusable Create with AI prompts, a Pinegrow Online AI provider, WordPress Blocks v3 export, and smoother project workflows.</p>
